@@ -1,0 +1,11 @@
+Thumbs.db
+php-cs-fixer.phar
+.DS_Store
+.idea
+__*
+._*
+Vagrantfile
+.vagrant*
+*.sublime-*
+.*.swp
+.swp
